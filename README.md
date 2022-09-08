@@ -13,7 +13,7 @@ Check out the tutorial material under `tutorials`.
 
 Enjoy,
 
-You CPC Zurich Team
+Your CPC Zurich Team
 
 
 
