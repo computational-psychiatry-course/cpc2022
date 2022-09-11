@@ -2,7 +2,7 @@
 
 The main course takes place over a period of 5 days.
 
-## Structure
+## Course Structure
 
 The **first day** covers topics in **Psychiatry** providing a conceptual basis for the type of questions that Computational Psychiatry needs to address.
 
