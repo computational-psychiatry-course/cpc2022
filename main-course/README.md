@@ -18,4 +18,4 @@ The **fourth day** includes **models of brain connectivity** (Dynamic Causal Mod
 
 ## Slides
 
-We are currently collecting all the slides from our speakers. They will be made available in this folder, sorted according to talk date, talk title, speaker name.
+We are currently collecting all the slides from our speakers. They will be made available in this folder, sorted according to talk date the respective talk schedule on that day.
