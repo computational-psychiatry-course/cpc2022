@@ -1,0 +1,3 @@
+[submodule "main-course/CPCZurich_2022-09-13_5_FittingAModelVBAndMCMC_LionelRigoux_add"]
+	path = main-course/CPCZurich_2022-09-13_5_FittingAModelVBAndMCMC_LionelRigoux_add
+	url = https://github.com/lionel-rigoux/tutorial-bayesian-inference.git
