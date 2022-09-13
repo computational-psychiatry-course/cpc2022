@@ -16,7 +16,7 @@ In this tutorial, we will review the theory behind active inference and  how to 
 
 #### Material
 
-NA
+The material for this tutorial can be found in the `tutorial-b` folder.
 
 
 ## Practical Session C with Conor Heins & Ana Grosu - Active Inference using the PYMDP Toolbox
@@ -81,7 +81,7 @@ NA
 #### Description
 In this tutorial, we will recap the theory underlying the hMeta-d model for quantifying metacognitive efficiency, our ability to monitor and evaluate our own decisions. We will introduce the model in an accessible way, then discuss practical issues when fitting computational models to behavioral data, and go through code examples relevant to computational psychiatry studies using the hMeta-d toolbox (in MATLAB). 
 #### Material
-NA
+The material for this tutorial can be found in the `tutorial-j` folder.
 
 
 ## Practical Session K with Stefan Frässle & Imre Kertesz - Advanced Models of Connectivity: regression DCM using the Tapas rDCM toolbox
