@@ -16,7 +16,7 @@ In this tutorial, we will review the theory behind active inference and  how to 
 
 #### Material
 
-NA
+The material for this tutorial can be found in the `tutorial-b` folder.
 
 
 ## Practical Session C with Conor Heins & Ana Grosu - Active Inference using the PYMDP Toolbox
