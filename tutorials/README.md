@@ -37,7 +37,7 @@ NA
 #### Description
 In this tutorial, students will learn the theory and practice behind the drift-diffusion model, as it is usually applied to explain behavior (choice, response time, confidence) in simple decision-making tasks. Participants will implement computational simulations to study the properties of the drift-diffusion model, and fit experimental data using MATLAB code provided by the instructor. We will also discuss some of the limitations of the model and common mistakes made when interpreting the model parameters.
 #### Material
-NA
+The code for this tutorial can be found in the `tutorial-e` folder (included as submodule).
 
 
 ## Practical Session F with Lionel Rigoux & Matthias Müller-Schrader - Modelling Crash-Course using the VBA Toolbox
