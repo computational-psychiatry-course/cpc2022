@@ -7,7 +7,7 @@ The slides of main course lectures can be found under `main-course`.
 
 ## Tutorials
 
-Check out the tutorial material under `tutorials`.
+Check out the tutorial material under `tutorials`. Additionally, you can find installation guides for required software installation for each tutorial in the folder `installation-guides` (included as submodule).
 
 
 
