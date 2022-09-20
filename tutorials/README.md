@@ -1,6 +1,6 @@
 # CPC Zurich 2022 Tutorials
 
-The practical tutorial sessions on the Day 6 of the course provide small-group, in-depth and hands-on experience on a specific modelling approach. The tutorials cover only open-source software packages. Installation guides for required software installation for each tutorial are available in a separate repo, which is included as a submodule in the folder `installation-guides`.
+The practical tutorial sessions on the Day 6 of the course provide small-group, in-depth and hands-on experience on a specific modelling approach. The tutorials cover only open-source software packages.
 
 ## Practical Session A with Tore Erdmann, Alex Hess & Peter Thestrup Waade - Bayesian Learning using the Hierarchical Gaussian Filter (HGF)
 #### Description
