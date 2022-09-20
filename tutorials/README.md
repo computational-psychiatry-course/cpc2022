@@ -1,12 +1,12 @@
 # CPC Zurich 2022 Tutorials
 
-The practical tutorial sessions on the Day 6 of the course provide small-group, in-depth and hands-on experience on a specific modelling approach. The tutorials cover only open-source software packages.
+The practical tutorial sessions on the Day 6 of the course provide small-group, in-depth and hands-on experience on a specific modelling approach. The tutorials cover only open-source software packages. Installation guides for required software installation for each tutorial are available in a separate repo, which is included as a submodule in the folder `installation-guides`.
 
 ## Practical Session A with Tore Erdmann, Alex Hess & Peter Thestrup Waade - Bayesian Learning using the Hierarchical Gaussian Filter (HGF)
 #### Description
 In this tutorial, we will recap the theory behind the Hierarchical  Gaussian Filter (HGF) and introduce the model in an accessible way. We  will then discuss practical issues when fitting computational models to  behavioral data in general and specific to the HGF. We will work through exercises to learn how to analyze data with the HGF using the HGF  Toolbox (in Julia).
 #### Material
-NA
+The Google Colab exercise notebook can be found [here](https://colab.research.google.com/drive/1vW6vIoyfrII67ZMErEWjtATrqmDfWcRg).
 
 ## Practical Session B with Ryan Smith, Rowan Hodson & Christopher Whyte - Active Inference using SPM
 
@@ -21,17 +21,17 @@ The material for this tutorial can be found in the `tutorial-b` folder.
 
 ## Practical Session C with Conor Heins & Ana Grosu - Active Inference using the PYMDP Toolbox
 #### Description
-This tutorial provides a practical guide on developing computational  models using pymdp, a Python package for solving partially-observed  Markov Decision Processes (POMDPs) with Active Inference. Students will  build simple simulations in interactive, cloud-hosted Python notebooks  (Google Colab). We aim to help students build generative models for  POMDPs and to develop a conceptual understanding of the theoretical  principles behind active inference, without requiring detailed technical knowledge.
+This tutorial provides a practical guide on developing computational  models using `pymdp`, a Python package for solving partially-observed  Markov Decision Processes (POMDPs) with Active Inference. Students will  build simple simulations in interactive, cloud-hosted Python notebooks  (Google Colab). We aim to help students build generative models for POMDPs and to develop a conceptual understanding of the theoretical  principles behind active inference, without requiring detailed technical knowledge.
 
 #### Material
-NA
+The material of this tutorial comes in the form of two interactive Google Colab notebooks ([Part I](https://colab.research.google.com/drive/1To2WPRxgraDVvAyBWjxmzNQLLobGvrQ8?usp=sharing#scrollTo=cIMQwgR801oA) and [Part II](https://colab.research.google.com/drive/1K76SkmaBwjwUvQmx6NJO6bUW9Sa9vq15?usp=sharing)).
 
 
 ## Practical Session D with Woo-Young Ahn, Eunhwi Lee & Jeung-Hyun Lee - Reinforcement Learning using the hBayesDM Package
 #### Description
 In this tutorial, participants will learn how to use a Bayesian package  called hBayesDM (supporting R and Python) for modeling various  reinforcement learning and decision making (RLDM) tasks. A short  overview of (hierarchical) Bayesian modeling will be also provided.  Participants will also learn important steps and issues to check when  reporting modeling results in publications.
 #### Material
-NA
+The material for this tutorial can be found in the `tutorial-d` folder.
 
 ## Practical Session E with Ariel Zylberberg & Max Pensack - The Drift-diffusion model of decision-making
 #### Description
@@ -58,14 +58,14 @@ NA
 #### Description
 Would you like to learn more about modeling individual differences and  heterogeneity in psychiatry? In this tutorial, we will abandon the  classical patient vs. healthy control framework. You will be guided  through how to run an analysis using normative modeling implemented in  the [PCNtoolkit](https://github.com/amarquand/PCNtoolkit/wiki/Normative-Modelling) (using cloud-hosted Python notebooks in Google Colab).
 #### Material
-NA
+The materials for this tutorial can be found on a separate github repo which is included as submodule in the `tutorial-g` folder.
 
 
 ## Practical Session H with Ashley Tyrer & Herman Galioulline - Dynamic Causal Modelling for EEG using the SPM-DCM Package
 #### Description
 This tutorial will examine specific features of EEG data that can be  used to optimize a cell and receptor specific model of brain  connectivity. EEG data acquired from an event-related (ERP) visual  memory study will be examined. The assumptions and parametrizations of  the neural mass models will be explained. Students will learn to use the SPM graphical user interface and to write batch code in MATLAB to  perform Dynamic Causal Modeling of EEG.
 #### Material
-NA
+The material for this tutorial can be found in the `tutorial-h` folder.
 
 
 ## Practical Session I with Jakob Heinzle & Birte Toussaint - Dynamic Causal Modelling for fMRI using the SPM-DCM Package
@@ -74,7 +74,7 @@ In this tutorial you will learn how to use the SPM software to perform a dynamic
 We will provide a point-by-point recipe on how to perform the analysis. However, it is of advantage if you have worked with neuroimaging (fMRI) data and MATLAB before.
 
 #### Material
-NA
+The material for this tutorial can be downloaded [here](https://polybox.ethz.ch/index.php/s/iE7gVmWq8XIuHWc/authenticate) (password: cPc2022dCm).
 
 
 ## Practical Session J with Marion Rouault & Sandra Iglesias - Modelling metacognition using the hMeta-d Toolbox
@@ -90,7 +90,7 @@ In this tutorial, you will learn how to use the regression dynamic causal modeli
 We will provide clear instructions on how to perform the analyses. However, experience with the analysis of fMRI data (already some experience with classical DCM for fMRI would be ideal) as well as experience with MATLAB are beneficial.
 
 #### Material
-NA
+The material for this tutorial can be downloaded [here](https://polybox.ethz.ch/index.php/s/fuGNOLoTiLT3zum/authenticate) (password: cpc2022rdcm!).
 
 ## Practical Session L with John Murray - Biophysical Network Models
 
