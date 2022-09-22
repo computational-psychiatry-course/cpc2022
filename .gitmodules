@@ -13,3 +13,6 @@
 [submodule "installation-guides"]
 	path = installation-guides
 	url = git@github.com:computational-psychiatry-course/tutorial-installation-guides.git
+[submodule "tutorials/tutorial-a"]
+	path = tutorials/tutorial-a
+	url = git@github.com:toreerdmann/HGF-workshop.git
