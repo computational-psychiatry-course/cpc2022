@@ -51,7 +51,7 @@ In this hands-on tutorial, you will apply computational modelling to a real-life
 You will also learn the basics of the VBA-toolbox which contains all the tools to simulate, estimate, and diagnose your models, as well as a collection of ready-to-use models (e.g. Q-learning, DCM). No previous experience with modelling is required, but basic knowledge of MATLAB is recommended.
 
 #### Material
-NA
+The material for this tutorial can be found in the `tutorial-f` folder.
 
 
 ## Practical Session G with Saige Rutherford & Thomas Wolfers - Machine Learning Tutorial using the PCNtoolkit
