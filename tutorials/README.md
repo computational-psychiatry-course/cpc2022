@@ -6,7 +6,7 @@ The practical tutorial sessions on the Day 6 of the course provide small-group, 
 #### Description
 In this tutorial, we will recap the theory behind the Hierarchical  Gaussian Filter (HGF) and introduce the model in an accessible way. We  will then discuss practical issues when fitting computational models to  behavioral data in general and specific to the HGF. We will work through exercises to learn how to analyze data with the HGF using the HGF  Toolbox (in Julia).
 #### Material
-The Google Colab exercise notebook can be found [here](https://colab.research.google.com/drive/1vW6vIoyfrII67ZMErEWjtATrqmDfWcRg).
+The material for this tutorial can be found in the `tutorial-a` folder (included as submodule). The Google Colab exercise notebook can be found [here](https://colab.research.google.com/drive/1vW6vIoyfrII67ZMErEWjtATrqmDfWcRg).
 
 ## Practical Session B with Ryan Smith, Rowan Hodson & Christopher Whyte - Active Inference using SPM
 
