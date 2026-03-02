@@ -3,7 +3,7 @@ This repository contains the materials used in the CPC Zurich 2022. The course t
 
 ## Main course
 
-The slides of the main course lectures can be found under `main-course`.
+Main course slides are no longer stored in this repository.
 
 ## Tutorials
 
